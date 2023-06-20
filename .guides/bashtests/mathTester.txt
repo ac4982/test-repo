@@ -1,0 +1,177 @@
+.guides/bashtests/init.sh ; clear
+pwd
+touch trial-run
+ls
+vim
+cd trial-run 
+rm trial-run 
+mkdir trial-run
+cd trial-run/
+touch testing.py
+clear
+clear;
+clear
+.guides/bashtests/init.sh ; clear
+clear
+.guides/bashtests/init.sh ; clear
+clear
+ls
+vim signups.txt 
+.guides/bashtests/init.sh ; clear
+clear
+./email.sh
+email.sh
+ls
+echo HI
+make
+make email.sh 
+ls
+vim email.sh 
+/email.sh
+./email.sh
+ls -a
+ls -al
+chmod 777 email.sh 
+ls
+ls -al
+./email.sh
+.guides/bashtests/init.sh ; clear
+clear
+ls -al
+./email.sh 
+.guides/bashtests/init.sh ; clear
+clear
+ls
+ls -l
+chmod 711 email.sh 
+ls
+ls -l
+chmod 744 email.sh 
+ls
+ls -l
+./email.sh 
+.guides/bashtests/init.sh ; clear
+clear
+.guides/bashtests/init.sh ; clear
+clear
+greap
+grep
+grep "email"
+grep '*.sh'
+echo grep *.sh
+.guides/bashtests/init.sh ; clear
+clear
+man grep
+grep *.sh
+ls
+grep '*.sh'
+grep .txt
+grep *.txty
+grep *.txt
+echo grep *.txt
+print grep *.txt
+print() s
+print( grep *.txt)
+printf grep *.txt
+printf( grep *.txt)
+grep [0-9]
+grep [0-9].txt
+ls
+touch 123.txt
+grep [0-9].txt
+grep '[0-9].txt'
+echo grep '[0-9].txt'
+ls
+rm 123.txt
+ls
+echo grep *.txt
+grep *.txt
+echo "grep *.txt"
+NAME = "hello"
+vim email.sh 
+email.sh
+make email.sh 
+./email.sh 
+ls
+touch 123.txt
+clear
+clear;
+pwd
+ls
+ls -a
+mkdir hello-world
+cd hello-world/
+touch hello.py
+ls
+vim hello.py 
+ls
+python3 hello.py
+git init
+git remote add origin git@github.com:ac4982/hello-world.git
+git remote -v
+git add hello.py 
+git commit -m 'initial commit'
+git push
+git push --set-upstream origin master
+bash --version
+echo $SHELL
+clear
+ls
+export NAME=value
+ls
+rm 123.txt 
+export IRONMAN=Tony
+echo $IRONMAN 
+echo $NAME 
+unset IRONMAN
+unset NAME
+NAME=value
+NAME=''
+printenv
+$PATH
+clear
+cd ..
+pw
+pwd
+workspace/ExampleFolder/
+workspace/ExampleFolder
+cd ~/workspace/
+echo Hey, all you people!
+print "Won't you listen to me?"
+printf "Won't you listen to me?"
+cat commands.txt
+source /home/codio/workspace/commands.txt
+man bash
+print "HELLO"
+printf "HELLO"
+clear
+bash Challenge/challenge1.sh
+clear
+bash Challenge/challenge1.sh
+clear
+bash Challenge/challenge1.sh
+pwd > directory.txt 
+cat directory.txt 
+ld
+ls
+ls >> directory.txt 
+cat directory.txt 
+cat < champs.txt 
+clear
+cat << ThisIsTheEnd
+Is this the real life?
+Is this just fantasy?
+Caught in a landslide,
+No escape from reality
+ThisIsTheEnd
+
+echo "Disk Space Usage Report" > diskspace.txt
+df
+df >> diskspace.txt 
+cat < diskspace.txt 
+cat << EndOfReport
+I have reported the usage of disk space in KBs.
+If you'd like, I can also run the report in megabytes
+It would be as easy as using the df -m command
+EndOfReport
+

@@ -1,0 +1,11 @@
+Disk Space Usage Report
+Filesystem     1K-blocks     Used Available Use% Mounted on
+none             5120000   267592   4316664   6% /
+none                 492        4       488   1% /dev
+/dev/root       30297152 11180472  19100296  37% /usr/share/cdb
+/dev/loop8       5120000   267592   4316664   6% /tmp
+tmpfs           16114740        0  16114740   0% /dev/shm
+tmpfs            6445900      148   6445752   1% /run
+tmpfs               5120        0      5120   0% /run/lock
+tmpfs               4096        0      4096   0% /sys/fs/cgroup
+tmpfs              78640        0     78640   0% /run/user/1000
